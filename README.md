@@ -10,10 +10,10 @@ copy`CirPageIndicator.java`to your project.
 
 ```xml
 <view
-	  android:layout_width="wrap_content"
-	  android:layout_height="wrap_content"
-	  class="com.dacer.cirpageindicator.CirPageIndicator"
-	  android:id="@+id/indicator"/>
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  class="com.dacer.cirpageindicator.CirPageIndicator"
+  android:id="@+id/indicator"/>
 ```
 
 ```java
