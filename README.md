@@ -3,10 +3,10 @@
 A Simple Indicator for Android ViewPager.
 
 ##Demo
-`CirPageIndicator`folder
+`/CirPageIndicator` folder
 
 ## Usage
-copy`CirPageIndicator.java`to your project.
+copy `CirPageIndicator.java` to your project.
 
 ```xml
 <view
